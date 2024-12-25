@@ -11272,6 +11272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-25 22:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2024-12-25 22:31:17 +0000"
@@ -11284,15 +11290,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-25 22:38:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2024-12-25 22:31:17 +0000"
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-12-25 22:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-25 22:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_polished_granite": "2024-12-25 22:31:17 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/twisted_spoon": {
+    "criteria": {
+      "has_shovel": "2024-12-25 22:36:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-25 22:38:50 +0000"
     },
     "done": true
   },

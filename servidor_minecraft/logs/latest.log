@@ -1482,3 +1482,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Dec2024 22:24:26.721] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 12832cee-ec23-4a20-9beb-db58e68b9eb1
 [25Dec2024 22:29:31.626] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10369, l='ServerLevel[world]', x=318.50, y=73.00, z=-1475.04] died, message: 'Villager was slain by Zombie'
 [25Dec2024 22:32:16.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was slain by Drowned
+[25Dec2024 22:37:21.371] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[25Dec2024 22:37:21.372] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[25Dec2024 22:37:21.373] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[25Dec2024 22:37:21.382] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[25Dec2024 22:37:21.382] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[25Dec2024 22:37:21.382] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[25Dec2024 22:37:21.383] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[25Dec2024 22:37:21.383] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[25Dec2024 22:38:50.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Hunt and Gather]
