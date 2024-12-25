@@ -7983,5 +7983,101 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-25 22:10:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-25 22:10:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/aspen_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-25 22:19:07 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/aspen_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-25 22:19:07 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/aspen_bookshelf": {
+    "criteria": {
+      "has_aspen_planks": "2024-12-25 22:19:07 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/aspen_slab": {
+    "criteria": {
+      "has_planks": "2024-12-25 22:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-25 22:10:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/aspen_button": {
+    "criteria": {
+      "has_planks": "2024-12-25 22:19:07 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/aspen_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-25 22:19:07 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/aspen_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-25 22:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-25 22:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-25 22:10:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/aspen_sign": {
+    "criteria": {
+      "has_planks": "2024-12-25 22:19:07 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/aspen_fence": {
+    "criteria": {
+      "has_planks": "2024-12-25 22:19:07 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/aspen_door": {
+    "criteria": {
+      "has_planks": "2024-12-25 22:19:07 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/aspen_crafting_table": {
+    "criteria": {
+      "has_aspen_planks": "2024-12-25 22:19:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
