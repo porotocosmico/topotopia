@@ -1,0 +1,65 @@
+{
+  "uuid": "fd304688-7d28-349e-8539-553f0a94a5ca",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "72731de3-6e58-408a-be8d-09c046e43cdf",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "treecko": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734131917965,
+            "caughtTimestamp": 1734131917965
+          }
+        },
+        "magikarp": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734479856694,
+            "caughtTimestamp": 1734479856694
+          }
+        },
+        "psyduck": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734479967809,
+            "caughtTimestamp": 1734479967809
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 1,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 5,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 5,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 1,
+    "totalTypeCaptureCounts": {
+      "water": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:buneary": 1,
+      "cobblemon:sentret": 1,
+      "cobblemon:kakuna": 1,
+      "cobblemon:metapod": 1
+    },
+    "aspectsCollected": {}
+  }
+}

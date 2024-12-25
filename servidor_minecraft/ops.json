@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "ff9db988-fa98-3a68-bad5-d16836d50417",
+    "name": "God",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "169250a1-8855-3730-925b-8c58d99780be",
+    "name": "Nach",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
