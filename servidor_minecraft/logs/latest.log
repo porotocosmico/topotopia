@@ -1491,3 +1491,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25Dec2024 22:37:21.383] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
 [25Dec2024 22:37:21.383] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
 [25Dec2024 22:38:50.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Hunt and Gather]
+[25Dec2024 22:54:05.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [The Andesite Age]
