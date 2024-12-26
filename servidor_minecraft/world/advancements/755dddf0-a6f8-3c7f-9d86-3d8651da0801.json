@@ -7996,6 +7996,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2024-12-26 00:31:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-25 22:42:00 +0000"
@@ -8125,6 +8131,12 @@
   "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-25 22:42:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_pink": {
+    "criteria": {
+      "has_item": "2024-12-26 00:31:09 +0000"
     },
     "done": true
   },
@@ -8260,6 +8272,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2024-12-26 00:31:09 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/aspen_slab": {
     "criteria": {
       "has_planks": "2024-12-25 22:19:07 +0000"
@@ -8362,6 +8380,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2024-12-26 00:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-25 22:42:00 +0000"
@@ -8371,6 +8395,12 @@
   "lightmanscurrency:recipes/ticket_machine/ticket_station/golden_master_ticket": {
     "criteria": {
       "ticket_material": "2024-12-25 23:35:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pink_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-26 00:31:09 +0000"
     },
     "done": true
   },
@@ -8473,6 +8503,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-25 23:10:12 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-12-26 00:31:09 +0000"
     },
     "done": true
   },
@@ -8761,6 +8797,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-25 23:10:12 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2024-12-26 00:31:09 +0000"
     },
     "done": true
   },

@@ -18,3 +18,6 @@
 [26Dec2024 00:20:06.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was killed by Witch using magic
 [26Dec2024 00:20:45.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was killed by Witch using magic
 [26Dec2024 00:21:41.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was killed by Witch using magic
+[26Dec2024 00:29:28.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk moved too quickly! -281.95574683837276,-22.0,-1016.7164819076271
+[26Dec2024 00:30:15.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk moved too quickly! -255.26849159704147,-8.0,-995.9410957772367
+[26Dec2024 00:31:09.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic has made the advancement [Sky of Beginning]
