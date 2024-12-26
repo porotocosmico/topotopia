@@ -21,3 +21,6 @@
 [26Dec2024 00:29:28.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk moved too quickly! -281.95574683837276,-22.0,-1016.7164819076271
 [26Dec2024 00:30:15.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk moved too quickly! -255.26849159704147,-8.0,-995.9410957772367
 [26Dec2024 00:31:09.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic has made the advancement [Sky of Beginning]
+[26Dec2024 01:04:33.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NiceDic lost connection: Disconnected
+[26Dec2024 01:04:33.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic left the game
+[26Dec2024 01:05:45.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk moved too quickly! -169.8551293005993,80.0,32.76737238480635
