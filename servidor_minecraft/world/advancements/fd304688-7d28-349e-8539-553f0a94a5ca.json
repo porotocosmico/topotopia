@@ -11347,6 +11347,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2024-12-25 23:41:55 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/dive_ball": {
     "criteria": {
       "has_white_apricorn": "2024-12-25 23:44:02 +0000"
@@ -11362,18 +11368,6 @@
   "cobblemon:harvest_apricorn": {
     "criteria": {
       "check_inv": "2024-12-25 23:44:02 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:moon": {
-    "criteria": {
-      "entered_moon": "2024-12-25 23:54:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/birch_cabinet": {
-    "criteria": {
-      "has_birch_trapdoor": "2024-12-25 23:41:55 +0000"
     },
     "done": true
   },
@@ -11436,6 +11430,12 @@
       "has_white_apricorn": "2024-12-25 23:44:02 +0000"
     },
     "done": false
+  },
+  "ad_astra:moon": {
+    "criteria": {
+      "entered_moon": "2024-12-25 23:54:25 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

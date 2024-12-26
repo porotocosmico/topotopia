@@ -13452,6 +13452,12 @@
     },
     "done": true
   },
+  "ad_astra:moon": {
+    "criteria": {
+      "entered_moon": "2024-12-25 23:55:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_item": "2024-12-25 22:49:04 +0000"

@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "fd304688-7d28-349e-8539-553f0a94a5ca",
+    "name": "Jeruuk",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "ff9db988-fa98-3a68-bad5-d16836d50417",
     "name": "God",
     "level": 4,
