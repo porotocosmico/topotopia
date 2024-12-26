@@ -15,3 +15,6 @@
 [26Dec2024 00:16:15.358] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Jeruuk
 [26Dec2024 00:16:29.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk hit the ground too hard whilst trying to escape Zombie
 [26Dec2024 00:16:32.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk moved too quickly! -275.45689470290904,-14.0,-995.1727181954228
+[26Dec2024 00:20:06.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was killed by Witch using magic
+[26Dec2024 00:20:45.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was killed by Witch using magic
+[26Dec2024 00:21:41.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was killed by Witch using magic
