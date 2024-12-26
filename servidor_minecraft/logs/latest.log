@@ -3,3 +3,15 @@
 [26Dec2024 00:06:05.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was pummeled by Ice Spit
 [26Dec2024 00:06:17.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2608ms or 52 ticks behind
 [26Dec2024 00:06:24.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set own game mode to Creative Mode]
+[26Dec2024 00:07:08.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Nach to Jeruuk]
+[26Dec2024 00:08:23.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set own game mode to Survival Mode]
+[26Dec2024 00:08:48.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach lost connection: Disconnected
+[26Dec2024 00:08:48.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach left the game
+[26Dec2024 00:14:39.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk lost connection: Disconnected
+[26Dec2024 00:14:39.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk left the game
+[26Dec2024 00:16:15.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeruuk[/100.92.187.4:55965] logged in with entity id 51040 at (-624.3891483711376, 82.0, 940.3885665927793)
+[26Dec2024 00:16:15.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk joined the game
+[26Dec2024 00:16:15.154] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Jeruuk
+[26Dec2024 00:16:15.358] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Jeruuk
+[26Dec2024 00:16:29.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk hit the ground too hard whilst trying to escape Zombie
+[26Dec2024 00:16:32.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk moved too quickly! -275.45689470290904,-14.0,-995.1727181954228

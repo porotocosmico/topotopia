@@ -31,6 +31,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-26 00:08:08 +0000",
       "minecraft:deep_ocean": "2024-12-14 00:17:22 +0000",
       "minecraft:cherry_grove": "2024-12-22 22:47:36 +0000",
       "minecraft:birch_forest": "2024-12-14 22:38:24 +0000",
@@ -13320,6 +13321,12 @@
     },
     "done": true
   },
+  "ad_astra:moon_cheese": {
+    "criteria": {
+      "has_moon_cheese": "2024-12-26 00:05:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2024-12-25 22:49:04 +0000"
@@ -13401,6 +13408,12 @@
   "create:recipes/misc/crafting/kinetics/large_water_wheel": {
     "criteria": {
       "has_item": "2024-12-25 23:08:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-26 00:05:37 +0000"
     },
     "done": true
   },
@@ -13692,9 +13705,21 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/cheese_block": {
+    "criteria": {
+      "has_cheese_block": "2024-12-26 00:05:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/cogwheel": {
     "criteria": {
       "has_item": "2024-12-25 22:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-26 00:05:37 +0000"
     },
     "done": true
   },
