@@ -24,3 +24,5 @@
 [26Dec2024 01:04:33.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NiceDic lost connection: Disconnected
 [26Dec2024 01:04:33.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic left the game
 [26Dec2024 01:05:45.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk moved too quickly! -169.8551293005993,80.0,32.76737238480635
+[26Dec2024 01:23:28.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk lost connection: Disconnected
+[26Dec2024 01:23:28.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk left the game
