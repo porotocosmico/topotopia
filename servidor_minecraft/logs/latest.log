@@ -85,3 +85,6 @@
 [29Dec2024 01:40:10.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Successfully filled 23 block(s)]
 [29Dec2024 01:48:38.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set the time to 1000]
 [29Dec2024 01:58:43.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set the time to 1000]
+[29Dec2024 02:04:33.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nach) moved wrongly! 0.2560887794206792
+[29Dec2024 02:08:53.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set the time to 1000]
+[29Dec2024 02:12:56.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach moved too quickly! 366.060463450841,3.9933289051516283,-966.7144684116886
