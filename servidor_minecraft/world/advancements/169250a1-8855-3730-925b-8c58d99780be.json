@@ -13747,6 +13747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2024-12-29 01:32:35 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/aspen_wood": {
     "criteria": {
       "has_log": "2024-12-29 00:05:30 +0000"
