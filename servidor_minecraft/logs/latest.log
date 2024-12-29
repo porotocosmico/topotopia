@@ -77,3 +77,6 @@
 [29Dec2024 01:01:25.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set the time to 1000]
 [29Dec2024 01:12:39.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set the time to 1000]
 [29Dec2024 01:21:23.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of NiceDic) moved wrongly! 0.3359259590506557
+[29Dec2024 01:23:01.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set the time to 1000]
+[29Dec2024 01:28:08.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nach> -554 72 -244
+[29Dec2024 01:28:38.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Successfully filled 66 block(s)]

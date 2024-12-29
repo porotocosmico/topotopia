@@ -9118,6 +9118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-29 01:31:18 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/held/heavy_duty_boots": {
     "criteria": {
       "has_leather": "2024-12-29 00:38:30 +0000"
