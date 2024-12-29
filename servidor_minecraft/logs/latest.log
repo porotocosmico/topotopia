@@ -88,3 +88,8 @@
 [29Dec2024 02:04:33.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Nach) moved wrongly! 0.2560887794206792
 [29Dec2024 02:08:53.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set the time to 1000]
 [29Dec2024 02:12:56.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach moved too quickly! 366.060463450841,3.9933289051516283,-966.7144684116886
+[29Dec2024 02:15:48.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Jeruuk) moved wrongly! 0.36055780202145726
+[29Dec2024 02:17:03.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Jeruuk) moved wrongly! 0.45706012845045596
+[29Dec2024 02:17:18.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Jeruuk) moved wrongly! 0.49466031789795334
+[29Dec2024 02:19:54.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of NiceDic) moved wrongly! 0.3506938219070438
+[29Dec2024 02:22:05.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set the time to 1000]
