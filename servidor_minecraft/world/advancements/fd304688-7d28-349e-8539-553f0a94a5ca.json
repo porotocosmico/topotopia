@@ -5742,6 +5742,7 @@
       "minecraft:sparse_jungle": "2024-12-23 00:39:49 +0000",
       "minecraft:river": "2024-12-16 17:10:33 +0000",
       "minecraft:stony_shore": "2024-12-14 00:18:41 +0000",
+      "minecraft:dripstone_caves": "2024-12-29 01:01:42 +0000",
       "minecraft:grove": "2024-12-28 23:44:00 +0000",
       "minecraft:cold_ocean": "2024-12-25 22:44:15 +0000",
       "minecraft:forest": "2024-12-23 00:53:02 +0000",
@@ -11544,6 +11545,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/never_melt_ice": {
+    "criteria": {
+      "has_ice": "2024-12-29 01:00:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2024-12-28 23:47:23 +0000"
@@ -11571,6 +11578,12 @@
   "cobblemon:recipes/held/focus_band": {
     "criteria": {
       "has_wool": "2024-12-28 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice_using_stone": {
+    "criteria": {
+      "has_the_recipe": "2024-12-29 01:00:17 +0000"
     },
     "done": true
   },
