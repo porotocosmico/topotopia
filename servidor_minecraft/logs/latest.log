@@ -7345,3 +7345,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jan2025 21:01:21.376] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Nach
 [06Jan2025 21:01:23.303] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Nach
 [06Jan2025 21:01:23.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3773ms or 75 ticks behind
+[06Jan2025 21:22:03.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeruuk[/100.92.187.4:62230] logged in with entity id 1655 at (-131.9828403176038, 79.0, -1207.3013606855382)
+[06Jan2025 21:22:03.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk joined the game
+[06Jan2025 21:22:03.598] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Jeruuk
+[06Jan2025 21:22:06.896] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Jeruuk

@@ -11546,12 +11546,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/held/never_melt_ice": {
-    "criteria": {
-      "has_ice": "2024-12-29 01:00:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2024-12-28 23:47:23 +0000"
@@ -11579,6 +11573,12 @@
   "cobblemon:recipes/held/focus_band": {
     "criteria": {
       "has_wool": "2024-12-28 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice": {
+    "criteria": {
+      "has_ice": "2024-12-29 01:00:17 +0000"
     },
     "done": true
   },
