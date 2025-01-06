@@ -7349,3 +7349,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jan2025 21:22:03.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk joined the game
 [06Jan2025 21:22:03.598] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Jeruuk
 [06Jan2025 21:22:06.896] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Jeruuk
+[06Jan2025 21:31:17.685] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk lost connection: Disconnected
+[06Jan2025 21:31:17.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk left the game
+[06Jan2025 21:34:35.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeruuk[/100.92.187.4:62437] logged in with entity id 3906 at (-402.721367535964, 84.0, -1520.514266596316)
+[06Jan2025 21:34:35.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk joined the game
+[06Jan2025 21:34:36.011] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Jeruuk
+[06Jan2025 21:34:37.052] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Jeruuk
+[06Jan2025 21:45:58.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk moved too quickly! -10.210556940953154,0.0,2.8148015309161565
